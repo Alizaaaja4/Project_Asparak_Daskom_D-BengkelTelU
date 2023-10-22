@@ -1,7 +1,7 @@
 # Project Asprak Daskom D'BengkelTelU
 [![Tubes Daskom](https://skillicons.dev/icons?i=vscode,git,github,c)](https://skillicons.dev)
 
-Judul Tugas : D'BengkelTelU
+Judul Project : D'BengkelTelU
 
 Deskripsi :  D'BengkelTelU adalah sebuah aplikasi pemesanan jasa dari toko bengkel yang ada disekitar Telkom University, aplikasi ini dapat membantu mahasiswa/dosen/aktivis kampus yang mengalami kendala pada kendaraan nya untuk mencari toko bengkel yang ada disekitar kampus dan dapat langsung memanggil montir dari toko bengkel tersebut untuk datang. 
 
