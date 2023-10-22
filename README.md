@@ -52,9 +52,9 @@ Dalam aplikasi D'BengkelTelU ini memiliki 2 fitur yang dapat digunakan sebagai r
     - Password
 - Login username dan password (rekursif 3x)
 - Menampilkan toko bengkel yang tersedia berdasarkan jenis bengkel
-      - Bengkel Mobil
-      - Bengkel Motor
-      - Bengkekl Sepeda
+    - Bengkel Mobil
+    - Bengkel Motor
+    - Bengkel Sepeda
 - Membuat pesanan jasa toko bengkel tersebut dengan mengirim pesan ke toko yang telah dipilih 
 - Mengirim feedback pada toko bengkel yang sudah dipesan, dengan input :
     - Nama Bengkel
