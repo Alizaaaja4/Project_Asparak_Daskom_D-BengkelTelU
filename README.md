@@ -1,5 +1,5 @@
 # Project Asprak Daskom D'BengkelTelU
-[![Tubes Daskom](https://skillicons.dev/icons?i=vscode,git,github,c)](https://skillicons.dev)
+[![Tubes Daskom](https://skillicons.dev/icons?i=vscode,github,c)](https://skillicons.dev)
 
 Judul Project : D'BengkelTelU
 
