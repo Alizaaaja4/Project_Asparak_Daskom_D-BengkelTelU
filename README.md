@@ -5,7 +5,7 @@
 
 Project : D'BengkelTelU
 
-Description : D 'bengkeltelu is a service order application from workshops located around telkom university. The application is intended to help teachers, students, and college activists who are having problems with their vehicles. It enables them to find nearby workshops around the campus and easily contact the mechanic from the one they choose to help. This simple application was developed using C programming language.
+Description : D'BengkelTelU is a service order application from workshops located around telkom university. The application is intended to help teachers, students, and college activists who are having problems with their vehicles. It enables them to find nearby workshops around the campus and easily contact the mechanic from the one they choose to help. This simple application was developed using C programming language.
 
 Member : 
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
