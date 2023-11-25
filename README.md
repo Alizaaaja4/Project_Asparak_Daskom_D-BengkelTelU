@@ -1,4 +1,4 @@
-<h1 align="center">Project D'BengkelTelU </h1>
+<h1 align="center">Project C.1.1 </h1>
 
 <h1 align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,c" alt="Tubes Daskom"></a></h1>
 
