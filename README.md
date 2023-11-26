@@ -10,11 +10,6 @@ Description : D'BengkelTelU is a service order application from workshops locate
 Developer : 
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
   > Practicum Assistant at Basic Computing Laboratory <br>
-- Hisyam Aqiel Sadzili [OIL]
-  > Practicum Assistant at Basic Computing Laboratory <br>
-- Muhammad Nabil Arifiandi Tambunan [NST]
-  > Practicum Assistant at Basic Computing Laboratory <br>
-
 
 ### BINARY FILE
 Binary files can store various types of data, including images, audio, video, compiled programs, or any data that doesn't consist of plain text. These files are typically used to store information that is structured in a way that is more efficient for a computer to process than a human-readable text file.
