@@ -1,4 +1,4 @@
-<h1 align="center">D'BengkelTelU </h1>
+<h1 align="center">D'Bengkel</h1>
 
 <h1 align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,c" alt="Tubes Daskom"></a></h1>
 
