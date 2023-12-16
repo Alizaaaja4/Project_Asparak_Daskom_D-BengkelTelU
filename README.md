@@ -12,7 +12,7 @@ Developer :
   > Practicum Assistant at Basic Computing Laboratory <br>
 
 ### Version 1.5
-Version 1.5 of the D'Montir app features two different user modes, namely Administrator mode and Customer mode. Each mode has unique features designed to meet the needs of users with different roles.
+Version 1.5 of the D'BengkelTelU app features two different user modes, namely Administrator mode and Customer mode. Each mode has unique features designed to meet the needs of users with different roles.
  #### Administrator
      - Sign in
      - Add store
