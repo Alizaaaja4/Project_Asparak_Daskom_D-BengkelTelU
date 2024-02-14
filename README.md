@@ -15,7 +15,7 @@ To access the features of D'BengkelTelU, use the following credentials:
 
 ## Get Started ▶️
 ### Clone the Repository
-    git clone https://github.com/Alizaaaja4/Shell_PlayStore.git
+    git clone https://github.com/Alizaaaja4/Project_C-Ver.1.git
 
 ### Run my Programs with
     gcc DBengkelTel-U2.c -o DBengkelTel-U2
