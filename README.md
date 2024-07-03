@@ -1,9 +1,10 @@
 <h1 align="center">👨🏻‍🏭 D'BengkelTelU 👨🏻‍🏭</h1>
 
-<p align="center">A simple practice project to deepen your understanding of C programming by building a user-friendly application.</p>
+<p align="center">A simple practice project to deepen your understanding of C programming by building a user-friendly application. This project is the final assignment for the odd semester of the 2023/2024 academic year.</p>
 
 ## About 📖
-D'BengkelTelU is a service order application from workshops located around telkom university. The application is intended to help teachers, students, and college activists who are having problems with their vehicles. It enables them to find nearby workshops around the campus and easily contact the mechanic from the one they choose to help. This simple application was developed using C programming language.
+
+D'BengkelTelU is a service order application for workshops located around Telkom University. The application is intended to help teachers, students, and college activists who are having problems with their vehicles. It enables them to find nearby workshops around the campus and easily contact the mechanic from the one they choose to help. This simple application was developed using the C programming language.
 
 ## Authentication 🔐
 
